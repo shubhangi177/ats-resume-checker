@@ -11,7 +11,7 @@ genai.configure(api_key=api_key)
 model = genai.GenerativeModel("gemini-3.1-flash-lite")
 
 # Set page config
-st.set_page_config(page_title="Resume Cabin", page_icon=":robot:", layout="wide")
+st.set_page_config(page_title="Resume Check", page_icon=":robot:", layout="wide")
 
 # Background image and style
 page_bg_img = """

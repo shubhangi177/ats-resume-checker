@@ -1,4 +1,4 @@
-# AI Powered Resume Cabin (ATS) Checker
+# Resume Check
 
 ## About The Project
 
@@ -6,7 +6,7 @@
 ![Logo](images/img3.png)
 ![Logo](images/img1.png)
 
-**Resume Cabin** is an AI-powered ATS that analyzes resumes against job descriptions. It uses **Google Generative AI** and **PyPDF2** to provide match scores, missing keywords, profile summaries, and personalized resume improvement suggestions through a **Streamlit** interface.
+**Resume Check** is an AI-powered ATS that analyzes resumes against job descriptions. It uses **Google Generative AI** and **PyPDF2** to provide match scores, missing keywords, profile summaries, and personalized resume improvement suggestions through a **Streamlit** interface.
 
 ## Built With
 
